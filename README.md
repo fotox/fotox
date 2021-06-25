@@ -1,4 +1,15 @@
-### Hi there 👋
+# Aktuelle Projekte
+## V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz
+### Deep-Learning-Anomaly
+### Deep-Learning-Engery
+### Deep-Learning-Recognition
+### Deep-Learning-Voice-Control
+### Deep-Learning-Vulnerability
+### Deep-Learning-Weatherstation
+### Deep-Learning-Workflows
+### Inside-OpenHAB
+### Inside-Windows
+### Justplay (cooperation with wenzfe, pinna9001 and Kurzhalsgiraffe)
 
 <!--
 **fotox/fotox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
