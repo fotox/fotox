@@ -10,7 +10,7 @@
 ### Inside-OpenHAB
 ### Inside-Windows
 ### Justplay
-- Cooperation with wenzfe, pinna9001 and Kurzhalsgiraffe
+- Cooperation with @wenzfe, @pinna9001 and @Kurzhalsgiraffe
 
 <!--
 **fotox/fotox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
