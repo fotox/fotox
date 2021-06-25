@@ -11,7 +11,7 @@
 ### Deep Learning Workflows
 ## Inside OpenHAB
 ## Inside Windows
-## Justplay
+## Justplay (powered by [wenzfe](https://github.com/wenzfe))
 - Cooperation with [wenzfe](https://github.com/wenzfe), [pinna9001](https://github.com/pinna9001) and [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
 
 <!--
