@@ -9,7 +9,8 @@
 ### Deep-Learning-Workflows
 ### Inside-OpenHAB
 ### Inside-Windows
-### Justplay (cooperation with wenzfe, pinna9001 and Kurzhalsgiraffe)
+### Justplay
+- Cooperation with wenzfe, pinna9001 and Kurzhalsgiraffe
 
 <!--
 **fotox/fotox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
