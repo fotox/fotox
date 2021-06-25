@@ -4,7 +4,7 @@
 - [ ] Patch Analytics
 - [ ] Smart Home Analytics
 #### Deep Learning Engery
-- [ ] Photovoltaics
+- [x] Photovoltaics
 - [ ] Wind Power
 #### Deep Learning Recognition
 - [ ] Face Recognition
