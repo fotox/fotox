@@ -1,4 +1,3 @@
-# My Projects
 ## V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz 
 #### Deep Learning Anomaly
 - [ ] Network Analytics
