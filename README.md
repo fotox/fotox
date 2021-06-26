@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fotox&theme=react&show_icons=true)
----
+
 ## Projects
 ### V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz 
 #### Deep Learning Anomaly
@@ -24,14 +24,15 @@
 ### Deep Learning Workflows
 - [ ] Patchmanagement
 - [ ] Meetings
----
+
 ## Inside OpenHAB
 - [ ] Private MyOpenHAB
 - [ ] Rules
----
+
 ## Inside Windows
-- [ ] Powershell
----
+- [x] Kill Telemetry Data with Powershell 
+- [x] Clean a freshly installed Windows with Powershell
+
 ## Justplay
 - Powered by [wenzfe](https://github.com/wenzfe)
 - Cooperation with [wenzfe](https://github.com/wenzfe), [pinna9001](https://github.com/pinna9001) and [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
