@@ -26,8 +26,13 @@
 - [ ] Meetings
 
 ## Inside OpenHAB
-- [ ] Private MyOpenHAB
-- [ ] Rules
+- [x] Check door-/windowcontacts
+- [x] Alexa say hello and goodbye
+- [x] Change winddirection
+- [x] Alexa how is the temperature
+- [x] Trigger room for Alexa temperature
+- [x] Next day activities
+- [ ] Answer about the addressed Alexa
 
 ## Inside Windows
 - [x] Kill Telemetry Data with Powershell [-> Link](https://github.com/fotox/Inside-Windows/blob/main/kill%20telemetry.ps1)
