@@ -8,7 +8,7 @@
 - [ ] Smart Home Analytics
 #### Deep Learning Engery
 - [x] Photovoltaics
-- [ ] Wind Power
+- [ ] Windpower
 #### Deep Learning Recognition
 - [ ] Face Recognition
 - [ ] Heat Recognition
