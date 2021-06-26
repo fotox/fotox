@@ -25,7 +25,7 @@
 - [ ] Patchmanagement
 - [ ] Meetings
 
-## Inside OpenHAB
+## Inside OpenHAB [->](https://github.com/fotox/Inside-OpenHAB)
 - [x] Check door-/windowcontacts
 - [x] Alexa say hello and goodbye
 - [x] Change winddirection
@@ -34,9 +34,9 @@
 - [x] Next day activities
 - [ ] Answer about the addressed Alexa
 
-## Inside Windows
-- [x] Kill Telemetry Data with Powershell [-> Link](https://github.com/fotox/Inside-Windows/blob/main/kill%20telemetry.ps1)
-- [x] Clean a freshly installed Windows with Powershell [-> Link](https://github.com/fotox/Inside-Windows/blob/main/clean%20freshly%20installed%20windows.ps1)
+## Inside Windows [->](https://github.com/fotox/Inside-Windows)
+- [x] Kill Telemetry Data with Powershell 
+- [x] Clean a freshly installed Windows with Powershell
 
 ## Justplay
 - Powered by [wenzfe](https://github.com/wenzfe)
