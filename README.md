@@ -1,8 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fotox&theme=react&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fotox&show_icons=true&theme=react&langs_count=3&layout=default&hide_border=false)
 ---
-
-## V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz 
+## Projects
+### V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz 
 #### Deep Learning Anomaly
 - [ ] Network Analytics
 - [ ] Patch Analytics
@@ -36,18 +36,3 @@
 ## Justplay
 - Powered by [wenzfe](https://github.com/wenzfe)
 - Cooperation with [wenzfe](https://github.com/wenzfe), [pinna9001](https://github.com/pinna9001) and [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
-
-<!--
-**fotox/fotox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
