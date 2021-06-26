@@ -30,8 +30,8 @@
 - [ ] Rules
 
 ## Inside Windows
-- [x] Kill Telemetry Data with Powershell 
-- [x] Clean a freshly installed Windows with Powershell
+- [x] Kill Telemetry Data with Powershell [-> Link](https://github.com/fotox/Inside-Windows/blob/main/kill%20telemetry.ps1)
+- [x] Clean a freshly installed Windows with Powershell [-> Link](https://github.com/fotox/Inside-Windows/blob/main/clean%20freshly%20installed%20windows.ps1)
 
 ## Justplay
 - Powered by [wenzfe](https://github.com/wenzfe)
