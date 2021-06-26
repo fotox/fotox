@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fotox&theme=react&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=fotox&theme=react&show_icons=true)
 
 ## Projects
 ### V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz 
