@@ -16,12 +16,12 @@
 - [ ] Heat recognition
 - [ ] Object recognition
 
-### Deep Learning Communication
+#### Deep Learning Communication
 - [ ] Speech to text
 - [ ] Text recognition
 - [ ] Text to speech
 
-### Deep Learning Vulnerability
+#### Deep Learning Vulnerability
 - [ ] Vulnerability analysis
 - [ ] Procedure analysis for attacks
 - [ ] Automation of attacks
@@ -29,10 +29,10 @@
 - [ ] Vulnerability reporting
 - Cooperation with [blank](https://github.com/blanks-hub) and [Crow](https://github.com/InfoSec-Crow)
 
-### Deep Learning Weatherstation
+#### Deep Learning Weatherstation
 - Cooperation with [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
 
-### Deep Learning Workflows
+#### Deep Learning Workflows
 - [ ] Patchmanagement
 - [ ] Meetings
 - [ ] Projectmanagement
