@@ -37,6 +37,9 @@
 - [ ] Meetings
 - [ ] Projectmanagement
 
+#### VIKI on Smartwatch
+- [ ] Smartwatch app to voice control 
+
 ---
 
 ## Inside OpenHAB [->](https://github.com/fotox/Inside-OpenHAB)
@@ -47,6 +50,14 @@
 
 ## Inside Windows [->](https://github.com/fotox/Inside-Windows)
 - [ ] Powershell-Helper
+
+----
+
+## Quotation-API
+- [ ] Quotation creation via web application
+- [ ] Push & Pull Customers, Workers and Modules from database
+- [ ] Pull prices from supplier databases
+- [ ] Print Quotation as pdf and automatic send via mail
 
 ----
 
