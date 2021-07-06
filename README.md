@@ -15,11 +15,13 @@
 - [ ] Face recognition
 - [ ] Heat recognition
 - [ ] Object recognition
+- Cooperation with [wenzfe](https://github.com/wenzfe)
 
 #### Deep Learning Communication
 - [ ] Speech to text
 - [ ] Text recognition
 - [ ] Text to speech
+- Cooperation with [wenzfe](https://github.com/wenzfe)
 
 #### Deep Learning Vulnerability
 - [ ] Vulnerability analysis
