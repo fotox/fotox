@@ -1,7 +1,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=fotox&theme=react&show_icons=true)
 
-## Projects
-### V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz 
+# Projects
+## V.I.K.I - Virtuelle Interaktive Künstliche Intelligenz 
 #### Deep Learning Anomaly
 - [ ] Network analytics
 - [ ] Patch analytics
