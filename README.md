@@ -42,13 +42,13 @@
 
 ---
 
-## Inside OpenHAB [->](https://github.com/fotox/Inside-OpenHAB)
+## Inside OpenHAB
 - [ ] Automatic by rules
 - [ ] Scripting with python-exec
 
 ---
 
-## Inside Windows [->](https://github.com/fotox/Inside-Windows)
+## Inside Windows
 - [ ] Powershell-Helper
 
 ----
