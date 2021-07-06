@@ -55,9 +55,6 @@
 
 ## Quotation-API
 - [ ] Quotation creation via web application
-- [ ] Push & Pull Customers, Workers and Modules from database
-- [ ] Pull prices from supplier databases
-- [ ] Print Quotation as pdf and automatic send via mail
 
 ----
 
