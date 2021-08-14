@@ -32,6 +32,9 @@
 - Cooperation with [blank](https://github.com/blanks-hub) and [Crow](https://github.com/InfoSec-Crow)
 
 #### Deep Learning Weatherstation
+- [ ] 3D-print case
+- [ ] Configure hardware
+- [ ] Setup software
 - Cooperation with [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
 
 #### Deep Learning Workflows
@@ -39,14 +42,15 @@
 - [ ] Meetings
 - [ ] Projectmanagement
 
-#### VIKI on Smartwatch
+#### VIKI Goes Smart
 - [ ] Smartwatch app to voice control 
+- [ ] DIY smartspeaker
 
 ---
 
 ## Inside OpenHAB
 - [ ] Automatic by rules
-- [ ] Scripting with python-exec
+- [ ] Scripting for python-exec
 
 ---
 
@@ -55,8 +59,9 @@
 
 ----
 
-## Quotation-API
-- [ ] Quotation creation via web application
+## Web Development
+- [ ] Offer creation via web application
+- [x] Handyman website
 
 ----
 
