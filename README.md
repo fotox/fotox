@@ -32,9 +32,10 @@
 - Cooperation with [blank](https://github.com/blanks-hub) and [Crow](https://github.com/InfoSec-Crow)
 
 #### Deep Learning Weatherstation
-- [ ] 3D-print case
-- [ ] Configure hardware
-- [ ] Setup software
+- [ ] 3D print case
+- [ ] USV and WiFi setting for hardware
+- [ ] GUI development
+- [ ] AI power calculation
 - Cooperation with [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
 
 #### Deep Learning Workflows
