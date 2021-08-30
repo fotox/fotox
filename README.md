@@ -63,6 +63,7 @@
 
 ## Web Development
 - [ ] Offer creation via web application
+- Cooperation with [wenzfe](https://github.com/wenzfe)
 - [x] Handyman website
 
 ----
