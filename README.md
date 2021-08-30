@@ -15,13 +15,13 @@
 - [ ] Face recognition
 - [ ] Heat recognition
 - [ ] Object recognition
-- Cooperation with [wenzfe](https://github.com/wenzfe)
+- Project cooperation with [wenzfe](https://github.com/wenzfe)
 
 #### Deep Learning Communication
 - [ ] Speech to text
 - [ ] Text recognition
 - [ ] Text to speech
-- Cooperation with [wenzfe](https://github.com/wenzfe)
+- Project cooperation with [wenzfe](https://github.com/wenzfe)
 
 #### Deep Learning Vulnerability
 - [ ] Vulnerability analysis
@@ -29,14 +29,14 @@
 - [ ] Automation of attacks
 - [ ] Analysis of automated attacks
 - [ ] Vulnerability reporting
-- Cooperation with [blank](https://github.com/blanks-hub) and [Crow](https://github.com/InfoSec-Crow)
+- Project cooperation with [blank](https://github.com/blanks-hub) and [Crow](https://github.com/InfoSec-Crow)
 
 #### Deep Learning Weatherstation
 - [ ] 3D print case
 - [ ] USV and WiFi setting for hardware
 - [ ] GUI development
 - [ ] AI power calculation
-- Cooperation with [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
+- Project cooperation with [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
 
 #### Deep Learning Workflows
 - [ ] Patchmanagement
@@ -71,4 +71,4 @@
 ## Justplay
 - [x] Dynamic web design with Nodejs
 - Powered by [wenzfe](https://github.com/wenzfe)
-- Cooperation with [wenzfe](https://github.com/wenzfe), [pinna9001](https://github.com/pinna9001) and [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
+- Project cooperation with [wenzfe](https://github.com/wenzfe), [pinna9001](https://github.com/pinna9001) and [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
