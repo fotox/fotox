@@ -45,7 +45,7 @@
 
 #### VIKI Goes Smart
 - [ ] Smartwatch app to voice control 
-- [ ] DIY smartspeaker
+- [ ] 3D print smartspeaker case
 - Cooperation with [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
 
 ---
