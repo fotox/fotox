@@ -7,7 +7,8 @@
 - [ ] Patch analytics
 - [ ] Smart Home analytics
 
-#### Deep Learning Engery
+#### Deep Learning Engery / Weather
+- [ ] Triangulation weather forecast
 - [x] Photovoltaics
 - [ ] Windpower
 
@@ -23,25 +24,13 @@
 - [ ] Text to speech
 - Project cooperation with [wenzfe](https://github.com/wenzfe)
 
-#### Deep Learning Vulnerability
-- [ ] Vulnerability analysis
-- [ ] Procedure analysis for attacks
-- [ ] Automation of attacks
-- [ ] Analysis of automated attacks
-- [ ] Vulnerability reporting
-- Project cooperation with [blank](https://github.com/blanks-hub) and [Crow](https://github.com/InfoSec-Crow)
-
 #### Deep Learning Weatherstation
 - [ ] 3D print case
+- [ ] Photovoltaik installation
 - [ ] USV and WiFi setting for hardware
 - [ ] GUI development
 - [ ] AI power calculation
 - Project cooperation with [Kurzhalsgiraffe](https://github.com/Kurzhalsgiraffe)
-
-#### Deep Learning Workflows
-- [ ] Patchmanagement
-- [ ] Meetings
-- [ ] Projectmanagement
 
 #### VIKI Goes Smart
 - [ ] Smartwatch app to voice control 
