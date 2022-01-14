@@ -19,7 +19,7 @@
 | Public | Privat | Comming Soon |
 | :---: | :---: | :---: |
 | OpenHAB 3 Rules | Deep Learning Photovoltaics | Image and Video Recognition |
-| Python-Exec for OpenHAB 3 | Deep Learning Windpower | Cloudless Smart Speaker |
+| Python Weather | Deep Learning Windpower | Cloudless Smart Speaker |
 | Microsoft Powershell-Helper | Waether Triangulation | Text and Speech Recognition |
 
 ### Cooperation Projects and Repos
